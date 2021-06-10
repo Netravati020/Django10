@@ -1,2 +1,3 @@
-# demo1
-assignment
+ DjangoExamples
+assignment1
+
