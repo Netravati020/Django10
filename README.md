@@ -1,3 +1,3 @@
  DjangoExamples
-assignment1
+ django projects
 
